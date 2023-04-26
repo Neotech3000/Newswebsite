@@ -80,6 +80,7 @@ body{
 
   .img1{
     order: 1;
+    flex-shrink: 2;
   }
   .content2{
     display: flex;
