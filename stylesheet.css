@@ -7,7 +7,7 @@ body{
  /* Navbar styles */
 .navbar {
     display: flex;
-    flex-wrap: wrap;
+    flex-shrink: 2;
     justify-content: space-between;
     align-items: center;
     background-color: #ede5e5;
@@ -90,5 +90,13 @@ body{
     gap: 10px 20px;
     row-gap: 10px;
     column-gap: 20px;
-    flex-grow: 2;
+    flex-shrink: 2;
+  }
+
+  .newsinfoB{
+    color: white;
+    font-size: 25px;
+    margin-left: 7%;
+    margin-right: 6%;
+    margin-bottom: 5%;
   }
