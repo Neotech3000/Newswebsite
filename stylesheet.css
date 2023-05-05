@@ -100,3 +100,11 @@ body{
     margin-right: 6%;
     margin-bottom: 5%;
   }
+
+  .newsinfoBb{
+    color: white;
+    margin-left: 7%;
+    margin-right: 3px;
+    margin-bottom: 7%;
+    font-size: 15px;
+  }
