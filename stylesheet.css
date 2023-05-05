@@ -78,9 +78,16 @@ body{
     font-size: 15px;
   }
   
+.image-container{
+  width: 100%;
+  position: relative;
+}
+
   .img1{
     order: 1;
     flex-shrink: 2;
+    width: 100%;
+    height: auto;
   }
   .content2{
     display: flex;
