@@ -91,7 +91,6 @@ body{
   }
   .content2{
     display: flex;
-    flex-wrap: wrap;
     justify-content: space-evenly;
     gap: 10px;
     gap: 10px 20px;

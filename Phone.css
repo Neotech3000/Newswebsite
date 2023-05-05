@@ -3,6 +3,25 @@
     #main {margin-left: 216px;}
   }
 
-  .img{
-    width: 24px;
+  .image-container{
+    width: 100%;
+    position: relative;
+  }
+
+  .img1{
+    order: 1;
+    flex-shrink: 2;
+    width: 100%;
+    height: auto;
+  }
+
+  .content2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 10px;
+    gap: 10px 20px;
+    row-gap: 10px;
+    column-gap: 20px;
+    flex-shrink: 2;
   }
