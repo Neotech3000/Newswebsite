@@ -9,7 +9,6 @@ body{
     display: flex;
     flex-shrink: 2;
     justify-content: space-between;
-    justify-content: space-evenly;
     align-items: center;
     background-color: #ede5e5;
     color: #000000;
